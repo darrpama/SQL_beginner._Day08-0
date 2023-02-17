@@ -1,3 +1,4 @@
+-- Lost Update Anomaly
 -- for Session #1
 BEGIN TRANSACTION;
 
